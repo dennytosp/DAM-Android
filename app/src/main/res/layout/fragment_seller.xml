@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/edThang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:layout_toLeftOf="@id/btnViewSach"
+        android:layout_alignParentTop="true" />
+
+    <Button
+        android:id="@+id/btnViewSach"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:text="Search" />
+
+    <ListView
+        android:id="@+id/rv_seller"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/edThang"
+        android:layout_alignParentBottom="true"
+        tools:listitem="@layout/item_seller" />
+
+</RelativeLayout>

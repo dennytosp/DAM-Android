@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">Matx-Book</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_now">Login Now</string>
+    <string name="don_t_remember_password">Don\'t Remember password?</string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="sign_in_with_facebook">Sign in with Facebook</string>
+    <string name="or">or</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="register">REGISTER</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+    <string name="license_title_company">Company Information</string>
+    <string name="license_company">Next Innovation Soft</string>
+    <string name="license_company_website">www.nextinnovationsoft.com</string>
+    <string name="license_title_dev">Developer Information</string>
+    <string name="dialog_title_licenses">License</string>
+    <string name="license_title_developer">Deey Phong</string>
+    <string name="license_developer_email">denny.tosp@gmail.com</string>
+    <string name="license_developer_phone">+8801683193505</string>
+
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="DinhPhong">Dinh Tien Phong</string>
+    <string name="hello_there">Hello there</string>
+
+
+    <string-array name="planets_array">
+        <item>Kệ B201</item>
+        <item>Kệ B202</item>
+        <item>Kệ B203</item>
+        <item>Kệ B204</item>
+        <item>Kệ B205</item>
+        <item>Kệ B206</item>
+        <item>Kệ B207</item>
+        <item>Kệ B208</item>
+        <item>Kệ B209</item>
+        <item>Kệ C301</item>
+        <item>Kệ C302</item>
+        <item>Kệ C303</item>
+        <item>Kệ C304</item>
+        <item>Kệ C305</item>
+        <item>Kệ C306</item>
+        <item>Kệ C07</item>
+        <item>Kệ C308</item>
+        <item>Kệ C309</item>
+        <item>Kệ D401</item>
+        <item>Kệ D402</item>
+        <item>Kệ D403</item>
+        <item>Kệ D404</item>
+        <item>Kệ D405</item>
+        <item>Kệ D406</item>
+        <item>Kệ D407</item>
+        <item>Kệ D408</item>
+        <item>Kệ D409</item>
+        <item>Kệ E501</item>
+        <item>Kệ E502</item>
+        <item>Kệ E503</item>
+        <item>Kệ E504</item>
+        <item>Kệ E505</item>
+        <item>Kệ E506</item>
+        <item>Kệ E507</item>
+        <item>Kệ E508</item>
+        <item>Kệ E509</item>
+        <item>Kệ F601</item>
+        <item>Kệ F602</item>
+        <item>Kệ F603</item>
+        <item>Kệ F604</item>
+        <item>Kệ F605</item>
+        <item>Kệ F606</item>
+        <item>Kệ F607</item>
+        <item>Kệ F608</item>
+        <item>Kệ F609</item>
+        <item>Kệ G701</item>
+        <item>Kệ G702</item>
+        <item>Kệ G703</item>
+        <item>Kệ G704</item>
+        <item>Kệ G705</item>
+        <item>Kệ G706</item>
+        <item>Kệ G707</item>
+        <item>Kệ G708</item>
+        <item>Kệ G709</item>
+        <item>Kệ H801</item>
+        <item>Kệ H802</item>
+        <item>Kệ H803</item>
+        <item>Kệ H804</item>
+        <item>Kệ H805</item>
+        <item>Kệ H806</item>
+        <item>Kệ H807</item>
+        <item>Kệ H808</item>
+        <item>Kệ H809</item>
+        <item>Kệ I901</item>
+        <item>Kệ I902</item>
+        <item>Kệ I903</item>
+        <item>Kệ I904</item>
+        <item>Kệ I905</item>
+        <item>Kệ I906</item>
+        <item>Kệ I907</item>
+        <item>Kệ I908</item>
+        <item>Kệ I909</item>
+
+    </string-array>
+
+</resources>
